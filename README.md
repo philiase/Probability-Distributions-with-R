@@ -53,5 +53,3 @@ To use the code provided in this repository, you will need:
 * [R](https://www.r-project.org/)
 
 ---
-### Lebuso Tsilo
-| [LinkedIn](https://www.linkedin.com/in/lebuso-tsilo/) |
