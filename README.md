@@ -54,5 +54,4 @@ To use the code provided in this repository, you will need:
 
 ---
 ### Lebuso Tsilo
-
-[LinkedIn](https://www.linkedin.com/in/lebuso-tsilo/) |
+| [LinkedIn](https://www.linkedin.com/in/lebuso-tsilo/) |
